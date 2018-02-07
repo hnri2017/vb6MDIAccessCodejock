@@ -1,0 +1,42 @@
+2018-01-12 23:16:18         返回记录集异常	异常代号：-2147217900	异常描述：Syntax error. in query expression 'FuncName SELECT FuncAutoID'.
+2018-01-12 23:17:11         返回记录集异常	异常代号：-2147217900	异常描述：Syntax error. in query expression 'FuncName SELECT FuncAutoID'.
+2018-01-13 22:50:01         部门添加异常	异常代号：-2147467259	异常描述：The field 'tb_Test_Sys_Department.ParentID' cannot contain a Null value because the Required property for this field is set to True.  Enter a value in this field.
+2018-01-13 22:52:14         部门添加异常	异常代号：-2147467259	异常描述：The field 'tb_Test_Sys_Department.ParentID' cannot contain a Null value because the Required property for this field is set to True.  Enter a value in this field.
+2018-01-13 22:57:32         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-13 22:58:33         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-13 23:00:15         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-13 23:00:28         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-13 23:01:03         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-13 23:03:55         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-13 23:05:51         返回记录集异常	异常代号：-2147217904	异常描述：至少一个参数没有被指定值。
+2018-01-13 23:06:08         返回记录集异常	异常代号：-2147217904	异常描述：至少一个参数没有被指定值。
+2018-01-13 23:17:50         返回记录集异常	异常代号：-2147217904	异常描述：至少一个参数没有被指定值。
+2018-01-13 23:18:04         返回记录集异常	异常代号：-2147217904	异常描述：至少一个参数没有被指定值。
+2018-01-13 23:18:16         返回记录集异常	异常代号：-2147217904	异常描述：至少一个参数没有被指定值。
+2018-01-14 23:04:07         返回记录集异常	异常代号：-2147217904	异常描述：至少一个参数没有被指定值。
+2018-01-14 23:05:15         返回记录集异常	异常代号：-2147217904	异常描述：至少一个参数没有被指定值。
+2018-01-14 23:07:09         返回记录集异常	异常代号：-2147217904	异常描述：至少一个参数没有被指定值。
+2018-01-14 23:08:22         返回记录集异常	异常代号：-2147217904	异常描述：至少一个参数没有被指定值。
+2018-01-14 23:13:36         返回记录集异常	异常代号：-2147217904	异常描述：至少一个参数没有被指定值。
+2018-01-14 23:19:22         添加用户异常	异常代号：-2147467259	异常描述：The field 'tb_Test_Sys_User.DeptID' cannot contain a Null value because the Required property for this field is set to True.  Enter a value in this field.
+2018-01-14 23:20:52         添加用户异常	异常代号：-2147467259	异常描述：The field 'tb_Test_Sys_User.DeptID' cannot contain a Null value because the Required property for this field is set to True.  Enter a value in this field.
+2018-01-14 23:21:40         返回记录集异常	异常代号：-2147217865	异常描述：The Microsoft Jet database engine cannot find the input table or query 'sp_Test_Sys_UserInfo'.  Make sure it exists and that its name is spelled correctly.
+2018-01-14 23:23:41         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-14 23:23:44         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-14 23:24:50         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-14 23:25:42         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-14 23:25:57         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-14 23:28:01         用户角色指定结果保存异常	异常代号：-2147467259	异常描述：[DBNMPNTW]拒绝访问。
+2018-01-14 23:29:11         用户角色指定结果保存异常	异常代号：-2147467259	异常描述：[DBNMPNTW]拒绝访问。
+2018-01-14 23:30:46         返回记录集异常	异常代号：-2147217913	异常描述：Data type mismatch in criteria expression.
+2018-01-14 23:36:38         返回记录集异常	异常代号：-2147217900	异常描述：Syntax error (missing operator) in query expression 't1.UserAutoID =t2.UserAutoID INNER JOIN tb_Test_Sys_RoleFunc AS [t4] ON t2.RoleAutoID =t4.RoleAutoID INNER JOIN tb_Test_Sys_Func AS [t5] ON t4.FuncAutoID =t5.FuncAutoID INNER JOIN tb_Test_Sys_Func AS [t6] ON t5.FuncParentID =t6.FuncAutoID'.
+2018-01-14 23:42:42         返回记录集异常	异常代号：-2147217900	异常描述：Syntax error (missing operator) in query expression 't1.UserAutoID =t2.UserAutoID INNER JOIN tb_Test_Sys_RoleFunc AS [t4] ON t2.RoleAutoID =t4.RoleAutoID INNER JOIN tb_Test_Sys_Func AS [t5] ON t4.FuncAutoID =t5.FuncAutoID INNER JOIN tb_Test_Sys_Func AS [t6] ON t5.FuncParentID =t6.FuncAutoID'.
+2018-01-17 22:25:36         返回记录集异常	异常代号：-2147217900	异常描述：Syntax error (missing operator) in query expression 't1.UserAutoID =t2.UserAutoID INNER JOIN tb_Test_Sys_RoleFunc AS [t4] ON t2.RoleAutoID =t4.RoleAutoID INNER JOIN tb_Test_Sys_Func AS [t5] ON t4.FuncAutoID =t5.FuncAutoID INNER JOIN tb_Test_Sys_Func AS [t6] ON t5.FuncParentID =t6.FuncAutoID'.
+2018-01-17 22:29:21         返回记录集异常	异常代号：-2147217900	异常描述：Syntax error. in query expression 'FuncName SELECT FuncAutoID'.
+2018-01-17 22:33:23         返回记录集异常	异常代号：-2147217900	异常描述：Syntax error (missing operator) in query expression 't1.UserAutoID =t2.UserAutoID INNER JOIN tb_Test_Sys_RoleFunc AS [t4] ON t2.RoleAutoID =t4.RoleAutoID INNER JOIN tb_Test_Sys_Func AS [t5] ON t4.FuncAutoID =t5.FuncAutoID INNER JOIN tb_Test_Sys_Func AS [t6] ON t5.FuncParentID =t6.FuncAutoID'.
+2018-01-17 22:40:32         返回记录集异常	异常代号：-2147217900	异常描述：Syntax error (missing operator) in query expression 't1.UserAutoID =t2.UserAutoID INNER JOIN tb_Test_Sys_RoleFunc AS [t4] ON t2.RoleAutoID =t4.RoleAutoID INNER JOIN tb_Test_Sys_Func AS [t5] ON t4.FuncAutoID =t5.FuncAutoID INNER JOIN tb_Test_Sys_Func AS [t6] ON t5.FuncParentID =t6.FuncAutoID'.
+2018-01-17 23:24:16         返回记录集异常	异常代号：-2147217900	异常描述：Syntax error. in query expression 'FuncName SELECT FuncAutoID'.
+2018-01-17 23:24:44         返回记录集异常	异常代号：-2147217900	异常描述：Syntax error. in query expression 'FuncName SELECT FuncAutoID'.
+2018-01-17 23:25:48         返回记录集异常	异常代号：-2147217900	异常描述：Characters found after end of SQL statement.
+2018-01-18 22:25:47         保存角色权限分配结果 异常	异常代号：-2147467259	异常描述：[DBNMPNTW]拒绝访问。
+2018-01-18 22:30:49         保存角色权限分配结果 异常	异常代号：-2147467259	异常描述：[DBNMPNTW]拒绝访问。

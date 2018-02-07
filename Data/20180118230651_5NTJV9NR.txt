@@ -1,0 +1,5 @@
+	UserAutoID	UserLoginName	UserPassword	UserFullName	UserSex	UserState	DeptID	UserMemo	
+1	1	Admin	6596841752979759m3swwgnCybHLiH	系统管理员	男	启用	0	1/14/2018 11:15:16 PM	
+2	2	System	6845499556359466788m7sywYnAkoc	系统人员	女	启用	0	1/14/2018 11:15:16 PM	
+3	5	6004	6263903251623Bo5h5X9uRtlLO3PXc	小明	男	启用	3		
+4	6	6005	69076337583199734125BF5g56ACNF	小红	女	启用	5		
